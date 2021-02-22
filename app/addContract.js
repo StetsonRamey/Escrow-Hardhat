@@ -1,4 +1,5 @@
 import {ethers} from 'ethers';
+const server = "http://localhost:3042"
 
 const provider = new ethers.providers.Web3Provider(ethereum);
 
